@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Apples",
+      "price": 2.99,
+      "image": "https://example.com/apples.jpg",
+      "description": "Fresh and crispy apples from local orchards."
+    },
+    {
+      "id": 2,
+      "name": "Bananas",
+      "price": 1.99,
+      "image": "https://example.com/bananas.jpg",
+      "description": "Ripe and delicious bananas from tropical farms."
+    },
+    {
+      "id": 3,
+      "name": "Carrots",
+      "price": 0.99,
+      "image": "https://example.com/carrots.jpg",
+      "description": "Organic carrots, perfect for salads and snacks."
+    },
+    {
+      "id": 4,
+      "name": "Broccoli",
+      "price": 1.49,
+      "image": "https://example.com/broccoli.jpg",
+      "description": "Fresh broccoli, packed with nutrients."
+    },
+    {
+      "id": 5,
+      "name": "Milk",
+      "price": 2.29,
+      "image": "https://example.com/milk.jpg",
+      "description": "Farm-fresh milk, essential for daily nutrition."
+    },
+    {
+      "id": 6,
+      "name": "Bread",
+      "price": 3.49,
+      "image": "https://example.com/bread.jpg",
+      "description": "Whole-grain bread, baked daily for freshness."
+    },
+    {
+      "id": 7,
+      "name": "Eggs",
+      "price": 1.89,
+      "image": "https://example.com/eggs.jpg",
+      "description": "Farm eggs, rich in protein and vitamins."
+    },
+    {
+      "id": 8,
+      "name": "Oranges",
+      "price": 3.99,
+      "image": "https://example.com/oranges.jpg",
+      "description": "Sweet and tangy oranges, a great source of vitamin C."
+    },
+    {
+      "id": 9,
+      "name": "Cheese",
+      "price": 4.79,
+      "image": "https://example.com/cheese.jpg",
+      "description": "Premium cheese, perfect for sandwiches and snacks."
+    },
+    {
+      "id": 10,
+      "name": "Tomatoes",
+      "price": 2.69,
+      "image": "https://example.com/tomatoes.jpg",
+      "description": "Fresh tomatoes, ideal for salads and cooking."
+    }
+  ]
+  
